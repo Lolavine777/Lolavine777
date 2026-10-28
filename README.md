@@ -24,11 +24,11 @@
 | **[AD Weighted Graph neo](https://github.com/Lolavine777/ad-weighted-graph-neo)** | Thesis. Attack-path analysis on BloodHound data: effort-scored paths with step-by-step explanations, then a fresh search after each remediation to check for bypasses. |
 | **[LLM Security Write-ups](https://github.com/Lolavine777/llm-security-writeups)** | Retrospectives from LLM security competitions, focused on methodology, failure modes, and defensive lessons. |
 
-**Agents & RAG**
+**LLM Systems**
 
 | Project | Description |
 |---------|-------------|
-| **[Trading Mentor Agent](https://github.com/Lolavine777/trading-mentor-agent)** | Telegram mentor built as a LangGraph supervisor over market, macro, portfolio, analyst, and tutor nodes, with scheduled briefings and memory. |
+| **[valuation-mvp](https://github.com/Lolavine777/valuation-mvp)** | DCF valuation for Vietnamese stocks. Code does all the math, an LLM only transcribes figures from financial statements with page citations, and a journal checks each thesis against the VN-Index. |
 | **[RAG-Scrape](https://github.com/Lolavine777/rag-scrape)** | LangGraph pipeline that scrapes, indexes, and answers questions over Vietnamese forum threads (ChromaDB, Gemini, Langfuse tracing). |
 | **[VLearn Lecture Pulse](https://github.com/Lolavine777/Hackathon-Team-DO-MESSIU)** | Mini hackathon, team lead. Spec to prototype to demo in 1.5 days; I owned the backend, API, and the eval set. |
 
