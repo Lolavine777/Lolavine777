@@ -87,12 +87,3 @@ ML fundamentals: [Linear regression from scratch](https://github.com/Lolavine777
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 <img src="https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-
-<br />
-
-### GitHub Activity
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Lolavine777&show_icons=true&hide_border=true&bg_color=ffffff&title_color=333333&text_color=555555&icon_color=666666" alt="GitHub stats" width="48%" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Lolavine777&layout=compact&hide_border=true&bg_color=ffffff&title_color=333333&text_color=555555" alt="Top Languages" width="48%" />
-</p>
