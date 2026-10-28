@@ -29,7 +29,7 @@
 | Project | Description |
 |---------|-------------|
 | **[valuation-mvp](https://github.com/Lolavine777/valuation-mvp)** | DCF valuation for Vietnamese stocks. Code does all the math, an LLM only transcribes figures from financial statements with page citations, and a journal checks each thesis against the VN-Index. |
-| **[RAG-Scrape](https://github.com/Lolavine777/rag-scrape)** | LangGraph RAG over Vietnamese forum threads with polite fetching (robots.txt, rate limit, no anti-bot bypass), ChromaDB, Gemini, and Langfuse tracing. |
+| **[RAG-Scrape](https://github.com/Lolavine777/rag-scrape)** | LangGraph RAG over Vietnamese forum threads: polite fetching, hybrid search (vector plus a Vietnamese-aware BM25), and answers that cite the exact posts they use. |
 | **[VLearn Lecture Pulse](https://github.com/Lolavine777/Hackathon-Team-DO-MESSIU)** | Mini hackathon, team lead. Spec to prototype to demo in 1.5 days; I owned the backend, API, and the eval set. |
 
 <details>
@@ -48,31 +48,18 @@
 
 <br />
 
-### Tech Stack & Skills
+### Tech Stack
 
-**AI & Machine Learning**<br>
+**Build**<br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/HuggingFace-F9AB00?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face" />
-
-<br>
-
-**LLMs & Agentic AI**<br>
-<img src="https://img.shields.io/badge/LangGraph-121212?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
-<img src="https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/Google%20Gemini-8E75C2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI" />
+<img src="https://img.shields.io/badge/LangGraph-2E6F62?style=flat-square&logo=langchain&logoColor=white" alt="LangGraph" />
 <img src="https://img.shields.io/badge/ChromaDB-FF6446?style=flat-square" alt="ChromaDB" />
-<img src="https://img.shields.io/badge/Langfuse-0A0A0A?style=flat-square" alt="Langfuse" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 
 <br>
 
-**Data & Infrastructure**<br>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/Railway-131415?style=flat-square&logo=railway&logoColor=white" alt="Railway" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+**Quality & Security**<br>
+<img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" alt="pytest" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/BloodHound-B4232A?style=flat-square" alt="BloodHound" />
